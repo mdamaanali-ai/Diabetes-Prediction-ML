@@ -161,7 +161,7 @@ as a substitute for professional medical advice.
 
 ## 📥 Download Dataset
 
-[![Download Diabetes Dataset](https://img.shields.io/badge/📥%20Download%20Diabetes%20Dataset-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdamaanali-ai/Diabetes-Prediction-ML/raw/refs/heads/main/diabetes.csv)
+[![Download Diabetes Dataset](https://img.shields.io/badge/📥%20Download%20Diabetes%20Dataset-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdamaanali-ai/Diabetes-Prediction-ML/raw/refs/heads/main/diabetes%20-%20diabetes.csv)
 
 ## 🚀 Live Demo
 
