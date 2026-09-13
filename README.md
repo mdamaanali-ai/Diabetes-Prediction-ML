@@ -159,6 +159,15 @@ This project is intended for educational and demonstration purposes
 only. The predictions are not medical diagnoses and should not be used
 as a substitute for professional medical advice.
 
+## 📥 Download Dataset
+
+[![Download Diabetes Dataset](https://img.shields.io/badge/📥%20Download%20Diabetes%20Dataset-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdamaanali-ai/Diabetes-Prediction-ML/raw/refs/heads/main/diabetes.csv)
+
+## 🚀 Live Demo
+
+[![Open Diabetes Prediction App](https://img.shields.io/badge/🚀%20Open%20Diabetes%20Prediction%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://diabetes-prediction-ml-pf4xwzrdshsvokwbnvbh9w.streamlit.app/)
+
+
 ## 👨‍💻 Author
 
 Mohammed Amaan Ali
